@@ -18,7 +18,7 @@ My name is Isaiah. I am a Software/Web Developer based in Southern California.
 
 I'm currently learning/specializing in Web Development and utilize the Web Framework Django Python
 
-I am a former collegiate/professional baseball player majored in B.S. Advanced Computer Sceince Magna Cum Laude at Avila University in Kansas City, MO.
+I am a former collegiate/professional baseball player and I majored in B.S. Advanced Computer Sceince Magna Cum Laude at Avila University in Kansas City, MO.
 
 My main goal is to find any software engineering/IT employer that is willing to take a chance on me. It has been difficult trying
 to find a job, especially due to my lack of hardware/software experience and current job market. I was not even able to participate in an
