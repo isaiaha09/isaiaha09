@@ -24,8 +24,8 @@ My main goal is to find any software engineering/IT employer that is willing to 
 to find a job, especially due to my lack of hardware/software experience and current job market. I was not even able to participate in an
 internship while I was in college due to the fact that I was playing baseball for the university as well as covid terminating internship opportunities. 
 
-I'm still building my portfolio and building as many apps as I can in order learn more and gain experience. 
+I'm still building my portfolio and building as many apps as I can in order learn more and gain experience.
 
-So far, I've built a total of 3 websites PWAs and of those 3, 1 of them is a SaaS website that is soon to be on the app store/google play store🤞
+So far, I've built a total of 3 websites PWAs and of those 3, 1 of them is a SaaS website that is also a mobile app for the iOS App Store📱
 
 I've only just gotten started. Please reach out to me through my linkedin or instagram account so we can work together. 
