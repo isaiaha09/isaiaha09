@@ -26,6 +26,6 @@ internship while I was in college due to the fact that I was playing baseball fo
 
 I'm still building my portfolio and building as many apps as I can in order learn more and gain experience.
 
-So far, I've built a total of 3 websites PWAs and of those 3, 1 of them is a SaaS website that is also a mobile app for the iOS App Store📱
+So far, I've built a total of 4 websites PWAs and of those 4, 2 of them is a SaaS website that is also a mobile app for the iOS App Store📱
 
 I've only just gotten started. Please reach out to me through my linkedin or instagram account so we can work together. 
