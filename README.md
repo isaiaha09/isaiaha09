@@ -12,6 +12,11 @@ My name is Isaiah. I am a Software/Web Developer based in Southern California.<b
 ![](https://streak-stats.demolab.com/?user=isaiaha09&theme=blue_navy&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=isaiaha09&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+# Contributions Graph
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=isaiaha09&bg_color=00000000&color=2f81f7&line=2f81f7&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+</p>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=isaiaha09&theme=blue_navy&no-frame=false&no-bg=false&margin-w=4)
 
