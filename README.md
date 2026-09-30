@@ -28,9 +28,12 @@ My name is Isaiah. I am a Software/Web Developer based in Southern California.<b
 </p>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=isaiaha09&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true)<br/>
+<p align="center">
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=isaiaha09&show_icons=true&theme=tokyonight&title_color=2f81f7&icon_color=2f81f7&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=isaiaha09&layout=compact&theme=tokyonight&title_color=2f81f7&icon_color=2f81f7&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+</p>
 ![](https://streak-stats.demolab.com/?user=isaiaha09&theme=blue_navy&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=isaiaha09&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 <p align="center">
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=isaiaha09&show_icons=true&theme=tokyonight&title_color=2f81f7&icon_color=2f81f7&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
