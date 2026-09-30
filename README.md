@@ -4,7 +4,9 @@
   </a>
 </p>
 
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=790&height=44&lines=I%20specialize%20in%20web%20app%20and%20mobile%20app%20development;Computer%20Scientist%20%7C%7C%20Software%20Developer" alt="Typing headlines" />
+</p>
 
 # 💫 About Me:
 My name is Isaiah. I am a Software/Web Developer based in Southern California.<br>I'm currently learning/specializing in Web Development and utilize the Web Framework Django Python<br>I am a former collegiate/professional baseball player and I majored in B.S. Advanced Computer Sceince Magna Cum Laude at Avila University in Kansas City, MO.<br>My main goal is to find any software engineering/IT employer that is willing to take a chance on me. It has been difficult trying<br>to find a job, especially due to my lack of hardware/software experience and current job market. I was not even able to participate in an<br>internship while I was in college due to the fact that I was playing baseball for the university as well as covid terminating internship opportunities.<br>I'm still building my portfolio and building as many apps as I can in order learn more and gain experience.<br>So far, I've built a total of 4 websites PWAs and of those 4, 2 of them are SaaS websites that are also ios mobile apps on the iOS App Store📱<br>I've only just gotten started. Please reach out to me through my LinkedIn or Instagram account so we can work together.
