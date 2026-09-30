@@ -28,9 +28,7 @@ My name is Isaiah. I am a Software/Web Developer based in Southern California.<b
 </p>
 
 # 📊 GitHub Stats:
-<p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=isaiaha09&show_icons=true&theme=tokyonight&title_color=2f81f7&icon_color=2f81f7&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-</p>
+
 
 
 <p align="center">
