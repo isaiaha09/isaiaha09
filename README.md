@@ -32,7 +32,6 @@ My name is Isaiah. I am a Software/Web Developer based in Southern California.<b
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=isaiaha09&show_icons=true&theme=tokyonight&title_color=2f81f7&icon_color=2f81f7&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=isaiaha09&layout=compact&theme=tokyonight&title_color=2f81f7&icon_color=2f81f7&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
-![](https://streak-stats.demolab.com/?user=isaiaha09&theme=blue_navy&hide_border=false)<br/>
 
 
 <p align="center">
